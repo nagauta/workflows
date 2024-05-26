@@ -1,0 +1,10 @@
+---
+name: List Repostories managed by ghq
+command: "ghq list"
+tags:
+  - ghq
+description: List Repostories managed by ghq
+source_url: "https://github.com/x-motemen/ghq"
+author: nagauta
+author_url: "https://github.com/nagauta"
+shells: []
